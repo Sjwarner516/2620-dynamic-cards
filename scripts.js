@@ -1,4 +1,4 @@
-import { destination } from '/data/destination.js';
+import { destination } from './data/destination.js';
 
 const stadiums = destination[0].football_stadiums;
 const myTarget = document.querySelector('#destinationcards');
