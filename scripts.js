@@ -4,7 +4,7 @@ const stadiums = destination[0].football_stadiums;
 const myTarget = document.querySelector('#destinationcards');
 
 for (let x = 0; x < stadiums.length; x++) {
-    const stadium = stadiums[x]; // ✅ THIS LINE is critical
+    const stadium = stadiums[x]; 
 
     let card = document.createElement('div');
     card.className = 'bg-white shadow-md rounded-lg overflow-hidden flex flex-col';

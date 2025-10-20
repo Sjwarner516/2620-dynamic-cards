@@ -26,7 +26,7 @@ export const destination = [
       "city": "Kansas City, Missouri",
       "team_description": "Home of the Kansas City Chiefs, a powerhouse NFL team known for its loud fans, passionate culture, and Super Bowl victories led by Patrick Mahomes.",
       "ticket_cost": 200,
-      "image": "Kansas-city-chiefs.jpg"
+      "image": "Kansas-City-Chiefs.jpg"
     },
     {
       "stadium_name": "MetLife Stadium",
